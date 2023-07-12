@@ -1,0 +1,8 @@
+Personal_Data
+Objective
+About
+Education
+Work_Experience
+Other
+Education_Item
+Work_Experience_Item
