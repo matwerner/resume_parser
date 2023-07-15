@@ -1,7 +1,7 @@
-# resume_parser
+# Resume Parser
 
 This repository contains the source code for the paper:
-`Paper Name`
+"Extracting Section Structure from Resumes in Brazilian Portuguese"
 
 # Environment tested
 
@@ -32,8 +32,7 @@ Due to user privacy concerns, it is only possible to reproduce the results of th
 
 ### Datasets
 
-Our anonymized version of our dataset can be downloaded here:
-`link here`
+Our anonymized version of our dataset can be downloaded [here](https://www.dropbox.com/s/px2iud43z3an6lk/page_template_dataset.zip?dl=0).
 
 Unzip the compressed file under the `resources/layout` folder.
 
